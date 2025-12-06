@@ -206,25 +206,3 @@
   }
 }
 
-.header-bg {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
-.masthead {
-  /*background-size: cover;*/
-  /*background-position: center center;*/
-  /*background-repeat: no-repeat;*/
-  position: relative;
-}
-
-.header-bg {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
-.masthead-HeaderBKG {
-}
-
